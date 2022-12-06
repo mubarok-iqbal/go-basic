@@ -13,4 +13,14 @@ func main() {
 
 	var city = "Bandung"
 	fmt.Println(city)
+
+	country := "Indonesia" // var country string = "Indonesia"
+	fmt.Println(country)
+
+	var (
+		firstName = "Muhammad Iqbal"
+		lastName  = "Mubarok"
+	)
+
+	fmt.Println(firstName, lastName)
 }
