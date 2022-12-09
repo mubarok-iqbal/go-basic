@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	name := "Kurniawan"
+	name := "Iqbal"
 
 	switch name {
 	case "Iqbal":
